@@ -7,8 +7,7 @@
 5. Write a procedure  countdown(n: Int) that prints the numbers from n to 0.
 6. Write a  for loop for computing the product of the Unicode codes of all letters in a string. For example, the product of the characters in  "Hello" is  9415087488L .
 7. Solve the preceding exercise without writing a loop. (Hint: Look at the  StringOps Scaladoc.)
-8. Write a function  product(s : String) that computes the product, as described
-in the preceding exercises.
+8. Write a function  product(s : String) that computes the product, as described in the preceding exercises.
 9. Make the function of the preceding exercise a recursive function.
 10. Write a function that computes x n , where n is an integer. Use the following recursive definition:
 
