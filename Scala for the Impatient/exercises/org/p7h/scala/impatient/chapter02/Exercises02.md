@@ -1,4 +1,5 @@
-## Exercises for Chapter 2 ["Control Structures and Functions"]
+# Exercises for Chapter 2: "Control Structures and Functions" of Scala for the Impatient
+----------
 
 1. The signum of a number is 1 if the number is positive, –1 if it is negative, and 0 if it is zero. Write a function that computes this value.
 2. What is the value of an empty block expression  {} ? What is its type?
